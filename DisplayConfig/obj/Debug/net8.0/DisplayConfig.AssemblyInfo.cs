@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DisplayConfig")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adc08f75eb4edd73b7bdf63a00644480a07fd4f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcac1c4fd41d757164dbd5d17251035424b3cfa3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DisplayConfig")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DisplayConfig")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
